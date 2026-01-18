@@ -5,10 +5,10 @@ EU + EFTA Sales link collection
 A list of countries:
 
 1. Scandinavians
-- NO - Norway
-- S - Sweden
-- FI - Finland
-- DK - Denmark
+- NO - Norway (https://elbilstatistikk.no)
+- S - Sweden (https://mobilitysweden.se/statistik/databas-nyregistreringar)
+- FI - Finland (https://aut.fi/)
+- DK - Denmark ()
 
 2. Central + West Europe
 
